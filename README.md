@@ -18,8 +18,8 @@ python3 analysis.py
 This will generate the processed data and corpus from raw Twitter data.
 All the analyzed data, graphs and tables will be saved in "data/tables/" and "results/" directories.
 
-#If you would like to regenerate the data run with the `--process_data` flag.
-#If you would like to regenerate the data run with the `--analyze_data` flag will generate the frequency graphs and word vectors. This might take a while to run since the Word2Vec model will be training.
+If you would like to regenerate the data run with the `--process_data` flag.
+You can also run the program with the `--analyze_data` flag, which will generate the frequency graphs and word vectors. This might take a while to run since the Word2Vec model will be training.
 
 ## Example Results
 
