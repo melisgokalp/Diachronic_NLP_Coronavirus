@@ -6,6 +6,7 @@ Processing (NLP) such as word vectors, sentiment analysis using a Naïve Bayesia
 and word frequency analysis.
 
 The data consists of 22834 Tweets, 75937 tokens and 346,025 words in the corpus
+
 *Keywords*: “coronavirus”, “corona”, “COVID”, “COVID-19” 
 
 ## Install Requirements
