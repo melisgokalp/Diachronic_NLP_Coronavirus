@@ -23,7 +23,7 @@ All the analyzed data, graphs and tables will be saved in "data/tables/" and "re
 #If you would like to regenerate the data run with the `--process_data` flag.
 #If you would like to regenerate the data run with the `--analyze_data` flag will generate the frequency graphs and word vectors. This might take a while to run since the Word2Vec model will be training.
 
-## Examples
+## Example Results
 
 ![Image 1](sample_results/dispersion_plot_sample.png)
 ![Image 1](sample_results/word_vectors_Feb.png)
