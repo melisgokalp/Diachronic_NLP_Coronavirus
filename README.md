@@ -1,6 +1,6 @@
 # Diachronic Semantic Change in Tweets About COVID-19: An NLP Based Frequency and Sentiment Analysis
 
-This program diachronically analyzes semantic patterns in frequency, sentiments and word vector embeddings. To achieve this, I used different methods of Natural Language Processing (NLP) such as word vectors, sentiment analysis using a Naïve Bayesian Classifier and word frequency analysis. The data consists of 22834 Tweets, 75937 tokens and 346,025 words in the corpus.
+This program diachronically analyzes semantic patterns in frequency, sentiments and word vector embeddings. To achieve this, I used different methods of Natural Language Processing (NLP) such as word vectors, sentiment analysis using a Naïve Bayesian Classifier and word frequency analysis. Tweets are scraped using the "Top Tweets" feature on Twitter Search. The data consists of 22834 Tweets, 75937 tokens and 346,025 words in the corpus.
 
 *Keywords*: “coronavirus”, “corona”, “COVID”, “COVID-19” 
 
