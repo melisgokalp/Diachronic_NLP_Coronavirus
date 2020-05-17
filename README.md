@@ -24,6 +24,8 @@ You can also run the program with the `--analyze_data` flag, which will generate
 
 ## Example Results
 
+![Image 1](sample_results/lines.png)
+![Image 1](sample_results/corPicture1.png)
 ![Image 1](sample_results/dispersion_plot_sample.png)
 ![Image 1](sample_results/word_vectors_Feb.png)
 
